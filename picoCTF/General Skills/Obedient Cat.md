@@ -14,7 +14,7 @@
 
 ## LEARNINGS
 
-1. The CTF description is your guide to success, so read it carefully and don’t miss anything important.
+1. The CTF description is your guide to success, so read it carefully and don’t miss anything important. Also go through Hints here
 
 2. Terminal - [For more Info](https://www.geeksforgeeks.org/what-is-terminal-console-shell-and-kernel/).
 
