@@ -34,7 +34,7 @@ sudo bash ltdis.sh static
 4. Two files will be generated in your current folder, open the file mentioned in the below screenshot
 
 
-    ![Filename](images/1.png)
+    ![Filename](images/1.PNG)
 
 
 5. Go through the file You will find the flag.
