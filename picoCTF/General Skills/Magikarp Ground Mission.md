@@ -23,4 +23,6 @@ Additional details will be available after launching your challenge instance.
 
 ## LEARNINGS
 
-1. SSH
+1. [SSH](https://www.geeksforgeeks.org/introduction-to-sshsecure-shell-keys/)
+
+2. [bash cheatsheet](https://devhints.io/bash)
