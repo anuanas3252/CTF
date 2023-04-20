@@ -43,4 +43,6 @@ sudo bash ltdis.sh static
 
 1. [BASH & SCRIPTING](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/) --> This one is more important
 
+2. [bash cheatsheet](https://devhints.io/bash)
+
 
