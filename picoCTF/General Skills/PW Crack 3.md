@@ -27,11 +27,14 @@
 ```
 Note left side is edited code , RIght side is Original code
 
-<br>
 
-![](images/2.PNG)
+```
 
-<br>
+![Filename](images/2.PNG)
+
+```
+
+
 
 2 changes I have made here
 
