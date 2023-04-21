@@ -24,7 +24,7 @@
 
 <br>
 
-1. This is an simple one, RUn the script - You will get the flag
+1. This is an simple one, Download & RUn the script - You will get the flag
 
 
 <br>
