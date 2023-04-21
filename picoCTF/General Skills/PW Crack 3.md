@@ -38,9 +38,9 @@ Note left side is edited code , RIght side is Original code
 
 2 changes I have made here
 
-    1. I have mode password list to the top above ie, it should came above level_3_pw_check() inorder to work
+    1. I have mode password list "pos_pw_list" to the top above ie, it should came above "level_3_pw_check()" inorder to work
 
-    2. Used a for loop to take each password from the list of pos_pw_list and pass it to user_pw variable
+    2. Used a for loop to take each password from the list of "pos_pw_list" and pass it to "user_pw" variable
 
 ```
 
