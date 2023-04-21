@@ -25,8 +25,10 @@
 
 3. CHange the code like below
 
+<br>
 ![Filename](images/5.PNG)
 
+<br>
 4. Run the script & give the suitable option - it will print the flag
 
 
