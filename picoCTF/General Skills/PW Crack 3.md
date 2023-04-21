@@ -18,7 +18,7 @@
 
 <br>
 
-1. Download all files.. So here we have to enter 7 different  passwords and rerun the script if it incorrect 
+1. Download all files.. So here we have to enter 7 different  passwords and return the script if it incorrect 
 
 2. This time I became lazy and I have done this in another way. 
 
