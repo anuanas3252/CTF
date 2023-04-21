@@ -25,7 +25,6 @@
 
 4. Run the script again, this time enter the password - It will give u flag
 
-
 <br>
 
 
