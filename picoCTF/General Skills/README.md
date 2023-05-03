@@ -1,6 +1,10 @@
 # Note
 
-Here I have created CTF writeups for Every CTF in General skills section except for below CTF. But I will give CTF videos& writeups for those done by others <br><br>
+Here I have created CTF writeups for Every CTF in General skills category except for below mentioned 3 CTF. But I have shared the  CTF videos& writeups for these done by others <br><br>
+
+Number of CTFs = 41 . <br>
+
+Completed on 1 May 2023. <br><br>
 
 ## List
 
